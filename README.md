@@ -5,7 +5,8 @@
 
 1. Instructions on how to run your code for my graders
 
-   REQUIRES pygame. MUST run `$pip install pygame` or `$pip3 install pygame` or DOWNLOAD [here](https://www.pygame.org/download.shtml)  
+   **REQUIRES** pygame. **MUST** run `$pip install pygame` or `$pip3 install pygame` or DOWNLOAD [here](https://www.pygame.org/download.shtml)  
+
    The code can be run in one of two ways:  
 
    `$ python LeastSignificantBit.py -n \<number of bits to change\> \<message file\> \<image\> \<output filename\>`  
